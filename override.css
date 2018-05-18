@@ -1,0 +1,16 @@
+.dark .section, .section.dark {
+    background-color: #000;
+}
+
+h2 {
+	font-size: 32px !important;
+}
+
+.red {
+	color: #FF0000 !important;
+	text-shadow: 0px 0px 5px #FF2222 !important;
+}
+
+a {
+	color: #888 !important;
+}
